@@ -1,1 +1,3 @@
-Repository covers the practices regarding Blender.
+# Blender
+
+Repository covers my practices regarding Blender.
